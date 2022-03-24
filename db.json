@@ -1,0 +1,81 @@
+{
+  "Employee": [
+    {
+      "firstName": "Kuldeep",
+      "lastName": "Singh",
+      "age": "23",
+      "address": "UP",
+      "department": "HR",
+      "salary": "3544",
+      "gender": "",
+      "maritalState": true,
+      "id": 3
+    },
+    {
+      "firstName": "Rahul",
+      "lastName": "Singh",
+      "age": "20",
+      "address": "MP",
+      "department": "Marketing",
+      "salary": "44",
+      "gender": "",
+      "maritalState": true,
+      "id": 4
+    },
+    {
+      "firstName": "Vijay",
+      "lastName": "Singh",
+      "age": "20",
+      "address": "MP",
+      "department": "IT",
+      "salary": "50",
+      "gender": "",
+      "maritalState": true,
+      "id": 5
+    },
+    {
+      "firstName": "Suhail",
+      "lastName": "Singh",
+      "age": "25",
+      "address": "J&K",
+      "department": "Finance",
+      "salary": "54",
+      "gender": "",
+      "maritalState": false,
+      "id": 6
+    },
+    {
+      "firstName": "Araz",
+      "lastName": "Mohhambad",
+      "age": "28",
+      "address": "UP",
+      "department": "Marketing",
+      "salary": "64",
+      "gender": "",
+      "maritalState": false,
+      "id": 7
+    },
+    {
+      "firstName": "sd",
+      "lastName": "",
+      "age": "06",
+      "address": "",
+      "department": "",
+      "salary": 0,
+      "gender": "",
+      "maritalState": true,
+      "id": 8
+    },
+    {
+      "firstName": "sd",
+      "lastName": "",
+      "age": "06",
+      "address": "",
+      "department": "",
+      "salary": 0,
+      "gender": "female",
+      "maritalState": true,
+      "id": 9
+    }
+  ]
+}
